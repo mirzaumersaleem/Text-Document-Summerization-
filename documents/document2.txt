@@ -1,0 +1,16 @@
+String passage = " HONOLULU-- It was high-tech robbery -- the theft and sale of\n" +
+"        long-distance telephone service.\n" +
+"\n" +
+"        Seventeen people in 13 states were arrested Monday. The charge:\n" +
+"        conspiracy to commit access device fraud and wire fraud.\n" +
+"        The victims: US Sprint, MCI Corp, Allnet Corp,ITT, Tri-Tel\n" +
+"        Communications.\n" +
+"\n" +
+"        Their loss: a reported $125 million in the past year.\n" +
+"        Steve Ramsay of the Secret Service said those charged sold access codes\n" +
+"        for $80 to $150 a month.\n" +
+"\n" +
+"        An access code -- a telephone credit card number-- allows callers to\n" +
+"        use long-distance phone lines. Calls were billed to that card number.\n" +
+"        The distributors often sold one code to hundreds, maybe thousands of\n" +
+"        people, Ramsey said. Charged to one number in four days: $73,592.\n" ;

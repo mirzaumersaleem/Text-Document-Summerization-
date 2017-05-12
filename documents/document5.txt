@@ -1,0 +1,24 @@
+  Computer science is one of the fastest growing career fields in modern 
+             history. Dating back only a few decades to the late 1950s and early 1960s, it 
+             has become one of the leading industries in the world today. Developed 
+             through the technological architecture of electrical engineering and the 
+             computational language of mathematics, the science of computer technology 
+             has provided considerable recognition and financial gain for many of its well 
+             deserving pioneers. Originally conceived as an organizational solution to the 
+             massive amounts of information kept on nothing more than paper, computers 
+             have evolved and advanced to become a common part of modern day life. In 
+             the early days of the computers age, the newest and most complex 
+             computers took up no less than an entire building or very large room. It was 
+             inconceivable that these machines would after only about fifty years be 
+             many times more powerful and small enough to be held with tweezers 
+             With the introduction of miniature circuitry and transistors, the days of
+             vacuum tubes and computers that filled entire buildings are long gone and 
+             the centerpiece of the today’s computer industry is the CPU, one of the 
+             modern marvels of science and technology. It is essentially the brain of the 
+             computer and though it is the main determining factor in the processing 
+             power of the computer as a whole, many other parts of the machine are just 
+             as important in overall performance. Many people don’t know this and that 
+             is how computer corporations have cheated people out of their money for so 
+             many years by selling them cheap systems with high megahertz numbers for 
+             the processors in them. This is one reason for the success of the computer 
+             industry. When people find out that they have been cheated, they will try to 
